@@ -1,2 +1,2 @@
-'use strict'
-let a = []
+"use strict";
+let a = [];
