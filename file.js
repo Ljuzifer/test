@@ -2,4 +2,4 @@
 
 let a = [];
 const b = a;
-const c = [d, f];
+const c = a.push(b);
